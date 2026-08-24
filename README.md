@@ -1,7 +1,3 @@
-# ITE Link Studio
-
-![ITE Link Studio](https://ite-link-studio.lovable.app/)
-
 ## 🌐 About
 
 **ITE Link Studio** is a modern web platform built to provide a clean and simple experience for users.
