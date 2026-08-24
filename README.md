@@ -52,4 +52,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by ITE Link Studio
+Made with ❤️ by qfm5
